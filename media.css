@@ -1,0 +1,50 @@
+@media screen and (max-width: 1650px) {
+    .header-nav {
+    margin-left: 12%;
+    }
+
+}
+
+
+@media screen and (max-width: 1400px) {
+    
+}
+
+@media screen and (max-width: 1250px) {
+    .header-nav a {
+        padding: 0 13px;
+        
+    }
+    
+}
+
+
+@media screen and (max-width: 1030px) {
+    .header-nav a {
+        padding: 0 5px;
+        
+    }
+    .header-nav {
+        margin-left: 2%;
+    }
+    
+    
+}
+
+
+
+@media screen and (max-width: 870px) {
+    
+    .header-nav a {
+        display: none
+        
+    }
+    .header-icon {
+        margin-top: 22px;
+        margin-left: 20%;
+    }
+   
+   
+    
+
+}
